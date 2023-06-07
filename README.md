@@ -23,7 +23,6 @@ Packaging – Pick and place robots used in the packaging process grab items fro
 Bin picking – Pick and place robots used in bin picking applications grab parts or items from bins. These pick and place robots typically have advanced vision systems allowing them to distinguish color, shape and size to pick the right items even from bins containing randomly mixed items. These parts or items are then sent to another location for assembly or packaging.
 Inspection – Pick and place robots used for inspection applications are equipped with advanced vision systems to pick up objects, detect anomalies and remove defective parts or items by placing them in a designated location.
 
-
 ### PROCEDURE:
 Select a robot New robots can be added from a local drive or from the online library:
 
@@ -84,6 +83,10 @@ r.ProgSave(r"""C:/Users/LokiUday/OneDrive/Documents/RoboDK""",r"""PICKANDPLACE""
  
  ###SIMULATION :
  ![241128511-44aecd65-0f72-4e6d-838e-a4ec42a8aa52](https://github.com/Madhav005/Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us/assets/110885274/9ebb9a28-0504-4323-bc5d-16164117783c)
-
+ ![241128520-79d0d81a-8c1e-436b-92f0-6e0510b34fbc](https://github.com/Madhav005/Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us/assets/110885274/5a995cb5-c013-4455-9f2d-3ada6f067dd9)
+![241128527-09c73f1f-6b62-4624-b8ce-a2fc2f464b61](https://github.com/Madhav005/Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us/assets/110885274/f0932e09-9366-4086-a0b2-3f070edb8da9)
+![241128534-8746513a-5b1e-4603-9a84-7e3fcb97c4cc](https://github.com/Madhav005/Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us/assets/110885274/1e1a14ae-2b8f-48d1-b61a-18fd65015053)
+![241128546-c36cfd0d-8d9c-4080-8257-d642bdbc4a45](https://github.com/Madhav005/Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us/assets/110885274/3560ee88-e5ca-4a30-bfdd-45a29caa0a3b)
  
  ### RESULTS :  
+ An environment for pick & place operations with Industrial Robot has been created and the simulation has been completed successfully using Robo DK software.
